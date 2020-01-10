@@ -1,0 +1,41 @@
+
+[{
+	"type": "ENTER",
+	"index": "items"
+}, {
+	"type": "ADD_ARRAY_ELEMENT",
+	"content": {
+		"order": 101,
+		"name": {
+			"en_US": "Neko cookie hunter",
+			"de_DE": "undefined",
+			"fr_FR": "undefined",
+			"zh_CN": "undefined",
+			"ja_JP": "undefined",
+			"ko_KR": "undefined",
+			"langUid": 20001
+		},
+		"description": {
+			"en_US": "A cookie seeking companion",
+			"de_DE": "undefined",
+			"fr_FR": "undefined",
+			"zh_CN": "undefined",
+			"ja_JP": "undefined",
+			"ko_KR": "undefined",
+			"langUid": 20002
+		},
+		"type": "TOGGLE",
+		"rarity": 0,
+		"cost": 1000,
+		"level": 1,
+		"icon": "item-toggle",
+		"noTrack": false,
+		"effect": {
+			"sheet": "drops",
+			"name": "circle"
+		},
+		"customItem": "cookie-pet"
+	}
+}, {
+	"type": "EXIT"
+}]

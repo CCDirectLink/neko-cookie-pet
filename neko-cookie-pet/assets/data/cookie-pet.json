@@ -1,0 +1,16 @@
+{
+	"Neko Cookie Hunter": {
+		"id": "Neko Cookie Hunter",
+		"item": {"jsonINSTANCE": "customItem.cookie-pet"},
+		"autoAdd": true,
+		"type": "Pet",
+		"settings": {
+			"animSheet": "neko-cookie-pet",
+			"walkAnims": {
+				"move": "idle",
+				"move": "move",
+				"special": "idleSpecial1"
+			}
+		}
+	}
+}

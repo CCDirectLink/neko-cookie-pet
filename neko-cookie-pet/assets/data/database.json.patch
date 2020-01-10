@@ -1,0 +1,22 @@
+[{
+	"type": "INIT_KEY",
+	"index": "playerSkins",
+	"content": {}
+}, {
+	"type": "ENTER",
+	"index": "playerSkins"
+}, {
+	"type": "IMPORT",
+	"src": "data/cookie-pet.json"
+}, {
+	"type": "EXIT"
+}, {
+	"type": "ENTER",
+	"index": ["toggle-sets", "pet", "items"]
+}, {
+	"type": "ADD_ARRAY_ELEMENT",
+	"content": {"jsonINSTANCE": "customItem.cookie-pet"}
+}, {
+	"type": "EXIT",
+	"count": 3
+}]
