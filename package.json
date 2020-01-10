@@ -1,7 +1,0 @@
-{
-    "name": "neko-cookie-hunter",
-    "version": "1.0.0",
-    "description": "A completely custom pet for CrossCode, based on leaCheeseAngry emote, but with some improvements.",
-    "module": false,
-    "ccmodDependencies": {}
-}
