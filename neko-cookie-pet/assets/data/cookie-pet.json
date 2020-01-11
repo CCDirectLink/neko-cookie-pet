@@ -5,7 +5,7 @@
 		"autoAdd": true,
 		"type": "Pet",
 		"settings": {
-			"animSheet": "neko-cookie-pet",
+			"animSheet": "pets.neko-cookie-pet",
 			"walkAnims": {
 				"move": "idle",
 				"move": "move",
